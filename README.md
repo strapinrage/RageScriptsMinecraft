@@ -13,7 +13,7 @@ Scripts that facilitate PvP in Minecraft 1.8.8. A program written in Java.
 
 ## Info
 
-*Some features are in beta and do not work properly. Currently, the fishing rod, pearls, and snowballs work very well.*
+*Some features are in beta and do not work properly. Currently, the fishing rod, pearls, and snowballs work very well!*
 
 
 ## Authors
